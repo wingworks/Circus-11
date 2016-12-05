@@ -5,6 +5,8 @@ Version 0.4
 
 View the [design specs](https://github.com/wingworks/Circus-11/blob/master/Circus-11.kite) or download the release [Version 0.4](https://github.com/wingworks/Circus-11/releases)
 
+Changes between Version 0.2 and Version 0.4: [diff](https://github.com/wingworks/Circus-11/commit/a904fac9d939af299c1c525e065eb3084870587e#diff-e1b903c5a827738dc48f00b39991dbd6)
+
 ![Kite 3D preview](https://github.com/wingworks/Circus-11/blob/master/quad_view_v4.png)  
 
 ![Kite 3D preview](https://github.com/wingworks/Circus-11/blob/master/Circus-11_front_v4.png)

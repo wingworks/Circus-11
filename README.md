@@ -1,7 +1,7 @@
 
-## Freestyle Kite Circus 11
+# Freestyle Kite Circus 11
 
-Version 1.0
+## Version 1.0
 
 View the [design specs](https://github.com/wingworks/Circus-11/blob/master/Circus-11.kite) or download the release [Version 1.0](https://github.com/wingworks/Circus-11/releases)
 
@@ -17,7 +17,7 @@ View the [design specs](https://github.com/wingworks/Circus-11/blob/master/Circu
 
 ![Kite 3D preview](https://github.com/wingworks/Circus-11/blob/master/Circus-11_right.png)
 
-Version 0.4
+## Version 0.4
 
 Changes between Version 0.2 and Version 0.4: [diff](https://github.com/wingworks/Circus-11/commit/a904fac9d939af299c1c525e065eb3084870587e#diff-e1b903c5a827738dc48f00b39991dbd6)
 

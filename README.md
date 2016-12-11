@@ -3,6 +3,8 @@
 
 ## Version 1.0
 
+Ready to build the first prototype.
+
 View the [design specs](https://github.com/wingworks/Circus-11/blob/master/Circus-11.kite) or download the release [Version 1.0](https://github.com/wingworks/Circus-11/releases)
 
 ![Kite 3D preview](https://github.com/wingworks/Circus-11/blob/master/quad_view.png)  

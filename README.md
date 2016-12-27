@@ -1,6 +1,12 @@
 
 # Freestyle Kite Circus 11
 
+## Version 1.1
+
+* changed shape of the bladder panels
+* reduced strut diameter
+* added a second set of larger bladders into the dxf (to be reused in larger kites)
+
 ## Version 1.0
 
 Ready to build the first prototype.

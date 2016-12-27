@@ -24,8 +24,8 @@
   Flying line length:              20.00m
   Distance towpoint -> bar:        19.92m
   Volume leading edge:             164l
-  Volume struts:                   37l
-  Kite volume:                     200l
+  Volume struts:                   33l
+  Kite volume:                     196l
   LE bladder length:               10.06m
 
 ## Segment overview ##
@@ -268,18 +268,18 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Seam length:               1758.5mm
  +Strut
     Segment:   1
-      Diameter:  114mm
+      Diameter:  95mm
     Segment:   2
-      Diameter:  117mm
+      Diameter:  100mm
     Segment:   3
-      Diameter:  117mm
+      Diameter:  100mm
     Segment:   4
-      Diameter:  112mm
+      Diameter:  95mm
     Segment:   5
-      Diameter:  98mm
+      Diameter:  85mm
     Segment:   6
       Diameter:  60mm
-    Volume:     10.22l
+    Volume:     8.11l
 
 ### Segment-1 ###
     Diameter:            166.5mm
@@ -537,16 +537,16 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Seam length:               1590.3mm
  +Strut
     Segment:   1
-      Diameter:  98mm
-    Segment:   2
-      Diameter:  100mm
-    Segment:   3
-      Diameter:  96mm
-    Segment:   4
       Diameter:  88mm
+    Segment:   2
+      Diameter:  90mm
+    Segment:   3
+      Diameter:  88mm
+    Segment:   4
+      Diameter:  80mm
     Segment:   5
       Diameter:  60mm
-    Volume:     7.70l
+    Volume:     6.75l
 
 ### Segment-6 ###
     Diameter:            148.4mm
@@ -694,7 +694,7 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Segment:   2
       Diameter:  90mm
     Segment:   3
-      Diameter:  85mm
+      Diameter:  86mm
     Segment:   4
       Diameter:  60mm
     Volume:     5.47l

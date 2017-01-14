@@ -3,10 +3,17 @@
 
 ## Version 1.2
 
-Changes:
-- equal profile thickness (circus 14 and circus 11)  
+* equal profile thickness (circus 14 and circus 11)  
+
+## Version 1.1
+
+* changed shape of the bladder panels
+* reduced strut diameter
+* added a second set of larger bladders into the dxf (to be reused in larger kites)
 
 ## Version 1.0
+
+Ready to build the first prototype.
 
 View the [design specs](https://github.com/wingworks/Circus-11/blob/master/Circus-11.kite) or download the release [Version 1.0](https://github.com/wingworks/Circus-11/releases)
 

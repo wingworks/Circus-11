@@ -1,6 +1,9 @@
 
 # Freestyle Kite Circus 11
 
+## Releases
+[List of all releases](https://github.com/wingworks/Circus-11/releases)
+
 ## Version 1.2
 
 * equal profile thickness (circus 14 and circus 11)  
